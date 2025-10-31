@@ -1,2 +1,2 @@
-# First-Repository
-my frist repository
+my first repository
+edited for commit ✅
